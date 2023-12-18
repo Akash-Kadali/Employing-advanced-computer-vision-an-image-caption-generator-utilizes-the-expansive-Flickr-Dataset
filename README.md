@@ -72,20 +72,7 @@ Outline the structure of your project's files and directories.
             <sub><b>Akash Kadali .</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/kaushik0703">
-            <img src="https://avatars.githubusercontent.com/u/106008167?v=4" width="100;" alt="akhilmhdh"/>
-            <br />
-            <sub><b>Kaushik Moralwar</b></sub>
-        </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/Karanchaudhary350">
-            <img src="https://avatars.githubusercontent.com/u/78443850?v=4" width="100;" alt="shufo"/>
-            <br />
-            <sub><b>Karan Chaudhary</b></sub>
-        </a>
-    </td></tr>
+    </tr>
 </table>
 <!-- readme: contributors -end -->
 
