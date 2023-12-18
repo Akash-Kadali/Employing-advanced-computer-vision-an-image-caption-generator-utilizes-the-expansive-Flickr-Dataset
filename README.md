@@ -27,13 +27,6 @@ The project is about developing an image caption generator using advanced comput
 
 https://colab.research.google.com/drive/1q4xAAI3SEdLKsO9afH--tCriGS9DiUf2?authuser=2
 
-### Caffe Installation
-
-1. Install Dependencies: Execute the provided code to install necessary dependencies for Caffe.
-2. Clone Caffe Repository: Clone the Caffe Colab repository to your environment.
-3. Build Caffe: Build Caffe using the provided code.
-4. Set Environment Variables: Set necessary environment variables for Caffe.
-
 ### Python Dependencies
 
 1. Install Python Dependencies: Use the provided code to install required Python libraries such as TensorFlow, NumPy, etc.
