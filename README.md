@@ -19,7 +19,7 @@ This paper presents an image caption generator that uses advanced computer visio
 
 ## Introduction
 
-Provide a brief overview of the project, its goals, and any important information that users or developers should be aware of.
+The project is about developing an image caption generator using advanced computer vision and deep learning techniques. The goal is to automatically generate descriptive captions for images, addressing the growing importance of image processing in various fields, such as object recognition and image categorization. The project uses the Flickr30k dataset, which contains 30,000 images, each associated with five captions. The project employs a CNN-LSTM model, which combines convolutional neural networks for image feature extraction and long short-term memory networks for natural language processing. The project evaluates the performance of the model using the BLEU score, a metric that measures the similarity between predicted and actual captions. The project also discusses the potential applications and implications of image captioning in the realms of social media and accessibility.
 
 ## Setup
 
