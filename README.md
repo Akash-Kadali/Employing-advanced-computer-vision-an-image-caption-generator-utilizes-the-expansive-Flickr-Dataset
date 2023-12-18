@@ -24,7 +24,7 @@ The project is about developing an image caption generator using advanced comput
 
 ### Google Colab Environment
 
-https://colab.research.google.com/drive/1q4xAAI3SEdLKsO9afH--tCriGS9DiUf2?authuser=2
+https://colab.research.google.com/drive/14TK0DJU8GgFb6HBAK4M11tvNdOYSdeqs?usp=sharing
 
 ### Python Dependencies
 
