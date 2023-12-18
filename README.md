@@ -67,7 +67,7 @@ Outline the structure of your project's files and directories.
 <tr>
     <td align="center">
         <a href="https://github.com/Akash-Kadali">
-            <img src="https://avatars.githubusercontent.com/u/106505506?v=4" width="100;" alt="akhilmhdh"/>
+            <img src="https://avatars.githubusercontent.com/u/97932811?v=4" width="100;" alt="akhilmhdh"/>
             <br />
             <sub><b>Akash Kadali .</b></sub>
         </a>
