@@ -62,3 +62,30 @@ Explain how to set up data generators, define the model architecture, and train 
 
 Outline the structure of your project's files and directories.
 
+## Contributors
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Akash-Kadali">
+            <img src="https://avatars.githubusercontent.com/u/106505506?v=4" width="100;" alt="akhilmhdh"/>
+            <br />
+            <sub><b>Aditya .</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kaushik0703">
+            <img src="https://avatars.githubusercontent.com/u/106008167?v=4" width="100;" alt="akhilmhdh"/>
+            <br />
+            <sub><b>Kaushik Moralwar</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/Karanchaudhary350">
+            <img src="https://avatars.githubusercontent.com/u/78443850?v=4" width="100;" alt="shufo"/>
+            <br />
+            <sub><b>Karan Chaudhary</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
+
