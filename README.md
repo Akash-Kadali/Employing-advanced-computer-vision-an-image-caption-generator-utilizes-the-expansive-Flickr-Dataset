@@ -1,5 +1,5 @@
-# Employing advanced computer vision, an image caption
-generator utilizes the expansive Flickr Dataset
+# Employing Advanced Computer Vision, An Image Caption
+Generator Utilizes the Expansive Flickr Dataset
 
 This paper presents an image caption generator that uses advanced computer vision and deep learning techniques to automatically produce descriptive captions for images. The paper explains the methodology, implementation, and evaluation of the generator, which combines a convolutional neural network (CNN) for image feature extraction and a long short-term memory network (LSTM) for natural language processing1. The paper also discusses the applications and challenges of image captioning, as well as the future directions for improvement.
 
