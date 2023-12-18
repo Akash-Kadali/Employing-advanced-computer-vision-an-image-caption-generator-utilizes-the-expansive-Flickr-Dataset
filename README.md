@@ -7,7 +7,6 @@ This paper presents an image caption generator that uses advanced computer visio
 - [Introduction](#introduction)
 - [Setup](#setup)
   - [Google Colab Environment](#google-colab-environment)
-  - [Caffe Installation](#caffe-installation)
   - [Python Dependencies](#python-dependencies)
 - [Usage](#usage)
   - [Loading the Network Architecture](#loading-the-network-architecture)
